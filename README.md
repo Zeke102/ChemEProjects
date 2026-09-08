@@ -11,4 +11,4 @@ balances, data analysis, and process design.
 ### Ethanol-Water Material Balance Model
 
 An Excel-based process model developed to analyze an ethanol-water separation
-process with recycle.
+process with recycle/purge system.
